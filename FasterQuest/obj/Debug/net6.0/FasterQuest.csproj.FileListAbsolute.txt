@@ -1,0 +1,30 @@
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\bin\Debug\net6.0\FasterQuest.exe
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\bin\Debug\net6.0\FasterQuest.deps.json
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\bin\Debug\net6.0\FasterQuest.runtimeconfig.json
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\bin\Debug\net6.0\FasterQuest.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\bin\Debug\net6.0\FasterQuest.pdb
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\FasterQuest.csproj.AssemblyReference.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\FasterQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\FasterQuest.AssemblyInfoInputs.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\FasterQuest.AssemblyInfo.cs
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\FasterQuest.csproj.CoreCompileInputs.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\FasterQuest.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\refint\FasterQuest.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\FasterQuest.pdb
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\FasterQuest.genruntimeconfig.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\FasterQuest\FasterQuest\FasterQuest\obj\Debug\net6.0\ref\FasterQuest.dll
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\bin\Debug\net6.0\FasterQuest.exe
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\bin\Debug\net6.0\FasterQuest.deps.json
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\bin\Debug\net6.0\FasterQuest.runtimeconfig.json
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\bin\Debug\net6.0\FasterQuest.dll
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\bin\Debug\net6.0\FasterQuest.pdb
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\FasterQuest.csproj.AssemblyReference.cache
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\FasterQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\FasterQuest.AssemblyInfoInputs.cache
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\FasterQuest.AssemblyInfo.cs
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\FasterQuest.csproj.CoreCompileInputs.cache
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\FasterQuest.dll
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\refint\FasterQuest.dll
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\FasterQuest.pdb
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\FasterQuest.genruntimeconfig.cache
+C:\Users\Ruan9\source\repos\ProjetoNetuno\FasterQuest\obj\Debug\net6.0\ref\FasterQuest.dll
